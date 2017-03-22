@@ -1,4 +1,6 @@
 ## 原来域名和用户名要一样才行： zhanghaibin2.github.com
+### ==把原来的库删除，再重新建一个，名字前段是用户名，后段是 github.com==
+
 
 You can use the [editor on GitHub](https://github.com/zhanghaibin2/zhanghaibin2.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
